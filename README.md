@@ -1,0 +1,2 @@
+# assets-tojnkj
+static assets
